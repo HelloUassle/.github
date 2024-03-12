@@ -4,7 +4,7 @@
 🌈 We look forward to Contributors to get involved our projects.
 👩‍💻 Our resource page is under development however accessible via https://support.uassle.com
 🍿 We Love Cooking & Drinking Tea :)
-🧙 We have started this README.md file with the guidance of GitHub. Thank you, GitHub. Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 We have started this README.md file with the guidance of GitHub. Thank you, GitHub. ([Markdown] https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Our projects are accessible via:
   Uassle - Message                        : https://uassle.com or https://message.uassle.com
